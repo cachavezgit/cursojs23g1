@@ -1,0 +1,6 @@
+1,Carlos Ivan Chavez Fuentes,Hermosillo,Developer
+2,Maria Roiz,CDMX,Analista
+3,Victor Carpena,Sao Paulo,Developer
+4,Mauricio Gomez,Maracaibo,Project Leader
+
+
