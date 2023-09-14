@@ -7,6 +7,7 @@ fs.readFile('C:\\Users\\cachavez\\CursoJS\\jsasyncyajax\\big.txt', 'utf8', (err,
     }
 
     Object.assign(resultado, data);
-});
+})
+
 console.log("Finished reading");
 console.log(resultado);
